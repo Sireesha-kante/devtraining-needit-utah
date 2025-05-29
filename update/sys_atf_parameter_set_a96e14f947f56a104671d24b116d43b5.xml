@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_parameter_set">
+    <sys_atf_parameter_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>First name = NeedIt
+Role = x_58872_needit.admin
+LastName = Admin</description>
+        <order>2</order>
+        <parameters/>
+        <sys_class_name>sys_atf_parameter_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 09:22:14</sys_created_on>
+        <sys_id>a96e14f947f56a104671d24b116d43b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_parameter_set_a96e14f947f56a104671d24b116d43b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 09:22:14</sys_updated_on>
+        <test display_value="Create NeedIt Module">675b907947f56a104671d24b116d4384</test>
+    </sys_atf_parameter_set>
+    <sys_variable_value action="delete_multiple" query="document_key=a96e14f947f56a104671d24b116d43b5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>a96e14f947f56a104671d24b116d43b5</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 09:22:14</sys_created_on>
+        <sys_id>547ed47d47f56a104671d24b116d4341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 09:22:14</sys_updated_on>
+        <value>Admin</value>
+        <variable display_value="LastName">b29cd0f947f56a104671d24b116d439d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>a96e14f947f56a104671d24b116d43b5</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 09:22:14</sys_created_on>
+        <sys_id>907ed47d47f56a104671d24b116d4341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 09:22:14</sys_updated_on>
+        <value>168e57609f213200bde5f79ff57fcfb4</value>
+        <variable display_value="Role">a1bc94f947f56a104671d24b116d438d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>a96e14f947f56a104671d24b116d43b5</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 09:22:14</sys_created_on>
+        <sys_id>dc7ed47d47f56a104671d24b116d4340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 09:22:14</sys_updated_on>
+        <value>NeedIt</value>
+        <variable display_value="First name">c47c9cb947f56a104671d24b116d4320</variable>
+    </sys_variable_value>
+</record_update>
